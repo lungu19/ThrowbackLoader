@@ -16,7 +16,7 @@
 #define TB_LOADER_MAJOR 1
 #define TB_LOADER_MINOR 0
 #define TB_LOADER_PATCH 0
-#define TB_LOADER_METADATA "test-candidate-1"
+#define TB_LOADER_METADATA "release-candidate-2"
 
 DLLEXPORT const char* Throwbackloader_GetVersion();
 

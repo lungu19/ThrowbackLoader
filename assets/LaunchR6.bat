@@ -8,11 +8,10 @@ taskkill /IM RainbowSix_Vulkan.exe /F /T >nul 2>&1
 taskkill /IM RainbowSixGame.exe /F /T >nul 2>&1
 
 for %%F in (
+    "RainbowSixGame.exe"
     "RainbowSix_DX11.exe"
     "RainbowSix.exe"
     "RainbowSix_Vulkan.exe"
-    "RainbowSix_DX12.exe"
-    "RainbowSixGame.exe"
 ) do (
     if exist %%F (
         echo %%~F launching...
