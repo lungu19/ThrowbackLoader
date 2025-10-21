@@ -3,8 +3,10 @@
       <Platform Name="x64" />
    </Configurations>
    <Folder Name="/Solution Items/">
+      <File Path=".gitignore" />
       <File Path="Directory.build.props" />
       <File Path=".clang-format" />
+      <File Path="README.md" />
    </Folder>
    <Project Path="Core/Core.vcxproj" Id="7a57940b-79e8-4936-9947-d15e27c21659" />
    <Project Path="DefaultArgs/DefaultArgs.vcxproj" Id="cc813d87-4485-4af0-9229-b7907dfee4af" />

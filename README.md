@@ -2,6 +2,10 @@
 [![Latest Release](https://img.shields.io/github/v/release/lungu19/ThrowbackLoader?include_prereleases)](https://github.com/lungu19/ThrowbackLoader/releases)[![License: GPL3](https://img.shields.io/badge/License-GPL3-yellow.svg)](https://opensource.org/license/gpl-3-0)
 # ThrowbackLoader
 ThrowbackLoader is the software used by the [Rainbow Six Siege Throwback](https://discord.gg/yxpT6EChgr) project to allow to launch any old version of Rainbow Six Siege offline.
+
+## Known Issues
+> After installing ThrowbackLoader on Y1S1 Black Ice for the first time, the menu will be unresponsive. Reboot to fix. Only happens on first launch.
+
 ## Instructions
 > [!WARNING]
 > ⚠️You **must own** a copy of Rainbow Six Siege. 
