@@ -1,0 +1,15 @@
+<Solution>
+   <Configurations>
+      <Platform Name="x64" />
+   </Configurations>
+   <Folder Name="/Solution Items/">
+      <File Path=".gitignore" />
+      <File Path="Directory.build.props" />
+      <File Path=".clang-format" />
+      <File Path="README.md" />
+   </Folder>
+   <Project Path="Core/Core.vcxproj" Id="7a57940b-79e8-4936-9947-d15e27c21659" />
+   <Project Path="DefaultArgs/DefaultArgs.vcxproj" Id="cc813d87-4485-4af0-9229-b7907dfee4af" />
+   <Project Path="UplayR1/UplayR1.vcxproj" Id="1b8c68ae-48ed-49ae-b322-9f055b0096d5" />
+   <Project Path="UplayR2/UplayR2.vcxproj" Id="18a1f69d-62aa-401d-be9b-2bc92061f1d2" />
+</Solution>
